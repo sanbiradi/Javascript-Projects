@@ -1,0 +1,7 @@
+.dTask,.delete{
+    cursor: pointer;
+}
+textarea{
+    resize: none;
+    height: 100px;
+}
